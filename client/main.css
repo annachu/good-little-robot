@@ -1,0 +1,30 @@
+/* CSS declarations go here */
+.select-dropdown {
+  color: #9e9e9e;
+}
+
+.select-dropdown.active {
+  color: rgba(0,0,0,0.87);
+}
+
+.side-nav > li {
+  font-weight: bold;
+  color: #444;
+}
+
+.collapsible-body li {
+  font-weight: lighter;
+}
+
+.brand-logo {
+  margin-left: 2rem;
+}
+
+.message {
+  margin: 2rem;
+}
+
+.card .tabs .tab a {
+  background-color: #e0e0e0;
+  color: #616161;
+}
